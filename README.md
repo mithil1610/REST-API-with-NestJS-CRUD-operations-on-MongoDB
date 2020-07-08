@@ -1,5 +1,6 @@
-#It is a simple REST API for creating, updating, deleting and querying items data from MongoDB server, build with NestJS (A progressive Node.js framework for building efficient, reliable and scalable server-side applications).
-###For connecting to your MongoDB database you will need to change the URI which is in the file **src/config/keys.ts**
+# It is a simple REST API for creating, updating, deleting and querying items data from MongoDB server, build with NestJS (A progressive Node.js framework for building efficient, reliable and scalable server-side applications).
+
+### For connecting to your MongoDB database you will need to change the URI which is in the file **src/config/keys.ts**
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
