@@ -1,3 +1,3 @@
 export default {
-    mongoURI: 'mongodb+srv://mithil1610:ykNNwhs1PFoM2z0E@mpcluster-1lnbn.mongodb.net/test?retryWrites=true&w=majority',
+    mongoURI: 'mongodb+srv://<username>:<password>@mpcluster-1lnbn.mongodb.net/<dbname>?retryWrites=true&w=majority',
 };
