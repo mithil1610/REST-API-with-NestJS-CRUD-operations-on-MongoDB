@@ -1,4 +1,4 @@
 export default {
   mongoURI:
-    'mongodb+srv://<username>:<password>@mpcluster-1lnbn.mongodb.net/<dbname>?retryWrites=true&w=majority',
+    'mongodb+srv://mithil1610:MfN9WpQxyVflKFEH@mpcluster-1lnbn.mongodb.net/test?retryWrites=true&w=majority',
 };
